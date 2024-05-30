@@ -24,6 +24,9 @@ public class UIInventory : MonoBehaviour
     private PlayerController controller;
     private PlayerCondition condition;
 
+    ItemData selectedItem;
+    int selectedItemIndex = 0;
+
     void Start()
     {
         controller = CharacterManager.Instance.Player.controller;
@@ -52,6 +55,7 @@ public class UIInventory : MonoBehaviour
 
     void ClearSelectedItemWindow()
     {
+        
         selectedItemName.text = string.Empty;
         selectedItemDescription.text = string.Empty;
         selectedStatName.text = string.Empty;
@@ -152,5 +156,26 @@ public class UIInventory : MonoBehaviour
     void ThrowItem(ItemData data)
     {
         Instantiate(data.dropPrefab, dropPosition.position, Quaternion.Euler(Vector3.one * Random.value * 360));
+    }
+
+    public void SelectItem(int index)
+    {
+        if (slots[index].item == null) return;
+
+        selectedItem = slots[index].item;
+        selectedItemIndex = index;
+
+        selectedItemName.text = selectedItem.displayName;
+        selectedItemDescription.text = selectedItem.description;
+
+        selectedStatName.text = string.Empty;
+        selectedStatValue.text = string.Empty;
+
+        for (int i = 0; i < selectedItem.consumables.Length; i++)
+        {
+
+        }
+
+        useButton.SetActive(selectedItem.type == ItemType.Consumable);
     }
 }

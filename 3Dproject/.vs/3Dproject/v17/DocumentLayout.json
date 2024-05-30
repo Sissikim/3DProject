@@ -1,57 +1,57 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sissi\\3Dproject\\",
+  "WorkspaceRootPath": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|c:\\users\\sissi\\3dproject\\assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|c:\\users\\sissi\\documents\\github\\3dproject\\3dproject\\assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uiinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|c:\\users\\sissi\\3dproject\\assets\\scripts\\ui\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\ui\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\itemslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|c:\\users\\sissi\\3dproject\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\ui\\damageindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\ui\\damageindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\damageindicator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\scriptableobject\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\scriptableobject\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\itemdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\campfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\campfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\campfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\interaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\item\\jumpitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\item\\jumpitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\jumpitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\item\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\item\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item\\itemobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\ui\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\ui\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\condition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\3Dproject\\assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33E08A5C-87FF-7466-7309-E79737B8FF3E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\uicondition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -68,11 +68,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "UIInventory.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\UIInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UIInventory.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\UIInventory.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\UIInventory.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UIInventory.cs",
-              "ViewState": "AQIAAGUAAAAAAAAAAAAcwHQAAAAdAAAA",
+              "ViewState": "AQIAAKAAAAAAAAAAAAAuwLIAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T10:22:47.596Z",
               "EditorCaption": ""
@@ -81,11 +81,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ItemSlot.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\ItemSlot.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\ItemSlot.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ItemSlot.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\ItemSlot.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\ItemSlot.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\ItemSlot.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAwC8AAAApAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAuwDQAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-30T10:21:56.719Z",
               "EditorCaption": ""
@@ -94,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "JumpItem.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Item\\JumpItem.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Item\\JumpItem.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\JumpItem.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Item\\JumpItem.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Item\\JumpItem.cs",
               "RelativeToolTip": "Assets\\Scripts\\Item\\JumpItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -106,22 +106,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAQwDUAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T07:26:40.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T07:26:40.538Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Interaction.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\Interaction.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\Interaction.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Interaction.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\Interaction.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\Interaction.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Interaction.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAxwDwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -131,22 +130,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\Player.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Player.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\Player.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T06:29:16.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-30T06:29:16.946Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "ItemObject.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Item\\ItemObject.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Item\\ItemObject.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Item\\ItemObject.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Item\\ItemObject.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Item\\ItemObject.cs",
               "RelativeToolTip": "Assets\\Scripts\\Item\\ItemObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -156,9 +154,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "ItemData.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\ScriptableObject\\ItemData.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\ScriptableObject\\ItemData.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\ItemData.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\ScriptableObject\\ItemData.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\ScriptableObject\\ItemData.cs",
               "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\ItemData.cs",
               "ViewState": "AQIAABAAAAAAAAAAAAAAwAsAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -168,9 +166,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "DamageIndicator.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\DamageIndicator.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\DamageIndicator.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\DamageIndicator.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\DamageIndicator.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\DamageIndicator.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\DamageIndicator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -180,9 +178,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "PlayerCondition.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\PlayerCondition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerCondition.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\Player\\PlayerCondition.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\Player\\PlayerCondition.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerCondition.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAUwAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,9 +190,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "CampFire.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\CampFire.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\CampFire.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\CampFire.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\CampFire.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\CampFire.cs",
               "RelativeToolTip": "Assets\\Scripts\\CampFire.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -204,9 +202,9 @@
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "UICondition.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\UICondition.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\UICondition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\UICondition.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\UICondition.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\UICondition.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\UICondition.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -216,9 +214,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Condition.cs",
-              "DocumentMoniker": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\Condition.cs",
+              "DocumentMoniker": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\Condition.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\Condition.cs",
-              "ToolTip": "C:\\Users\\sissi\\3Dproject\\Assets\\Scripts\\UI\\Condition.cs",
+              "ToolTip": "C:\\Users\\sissi\\Documents\\GitHub\\3DProject\\3Dproject\\Assets\\Scripts\\UI\\Condition.cs",
               "RelativeToolTip": "Assets\\Scripts\\UI\\Condition.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
